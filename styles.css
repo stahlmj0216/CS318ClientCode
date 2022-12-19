@@ -1,0 +1,227 @@
+.seeyousoon{
+    background-color: black;
+    color: white;
+    text-align: center;
+   
+    font-size:xx-large;
+}
+
+.ticketpricing{
+    background-color: #808080;
+    text-align: center;
+    line-height:75% ;
+
+}
+
+.reserve{
+    background-color: #8F0000;
+    text-align: center;
+    line-height:200% ;
+  
+
+}
+
+.reservenow{
+    color: white;
+}
+
+.featuredevent{
+
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.shopmerch{
+    text-align: center;
+    padding: 4rem;
+    font-size: 300%;
+   
+}
+
+.store{
+    background-color: black;
+  color:white;
+  text-align: center;
+  padding: 5rem;
+  font-size: 300%;
+
+
+
+}
+
+.missionmain{
+    background-color:white;
+    display: grid;
+grid-template-columns:35% 65%;
+
+}
+
+.ourmission{
+    text-align: center;
+    font-size: 350%;
+  
+
+}
+
+.missionmain img{
+padding-top: 20%;
+}
+
+.mission{
+    text-align: center;
+
+    font-size: 200%;
+    line-height:200% ;
+}
+footer img{
+    width: 3rem;
+    justify-content: center;
+}
+
+footer{
+    background-color: #CCCCCC;
+    padding-top: 1%;
+}
+
+.contact{
+    background-color:#8F0000 ;
+}
+
+.contactform{
+    padding: 10%;
+    padding-left: 40%;
+    justify-content: space-between;
+
+    background-color: #808080;
+}
+
+.name{
+    border: black;
+}
+
+.grid
+{
+display: grid;
+grid-template-columns:40% 60%;
+grid-template-rows:10rem auto;
+
+
+}
+main img{
+    width: 75%;
+}
+
+.seeyousoon{
+
+    grid-column: 1/3;
+}
+.ticketimage{
+    width: 75%;
+}
+
+body{
+    font-family: bebas-neue-pro, sans-serif;
+}
+
+
+.gridmain{
+    display: grid;
+grid-template-columns:10% 90%;
+grid-template-rows: 40% 50%;
+
+}
+.newsletter{
+    grid-column: 1/3;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 10%;
+    
+}
+
+.buildinghomepage img{
+
+    width: 90%;
+    margin-left: 10%;
+    
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+    justify-content: space-evenly;
+    font-size: 150%;
+  
+   
+}
+
+header{
+    background-color:#CCCCCC ;
+}
+
+
+
+header img{
+    max-width: 15rem;
+}
+
+.hours{
+    background-color:#8F0000 ;
+    line-height: 20%;
+    text-align: center;
+    color: white;
+
+}
+
+
+.hoursgrid{
+    display: grid;
+    grid-template-columns:20% 80%;
+grid-template-rows:60% 40%;
+
+
+}
+.exhibitgrid{
+  
+    background-color: #8F0000;
+
+    display: grid;
+    grid-template-columns:33% 33% 33%;
+grid-template-rows:50% 50%;
+gap: 10%;
+row-gap: 10%;
+padding: 1%;
+padding-bottom: 4%;
+
+color: white;
+
+}
+
+.clothesgrid{
+    background-color: #8F0000;
+
+    display: grid;
+    grid-template-columns:33% 33% 33%;
+grid-template-rows:50% 50%;
+gap: 10%;
+row-gap: 10%;
+padding: 1%;
+color: white;
+}
+
+.contacts{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+    color: white;
+    font-size: 200%;
+}
+
+
+
+
+
+  
